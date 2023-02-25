@@ -3,6 +3,7 @@
 
 * dqn
 * policy gradient
+* ddpg
 * 
 
 待续... ...
